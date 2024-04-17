@@ -28,7 +28,7 @@ This is a simple URL shortening service implemented using Java with Spring Boot.
 1. Open Postman.
 2. Create a new request with the following details:
 - Request type: POST
-- URL: http://localhost:8080/shorten
+- URL: http://localhost:8080/TinyUrl/shorten
 - Body: Raw (JSON format)
   ```
   {
