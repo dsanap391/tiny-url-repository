@@ -21,6 +21,7 @@ This is a simple URL shortening service implemented using Java with Spring Boot.
 2. Make sure you have Java and Maven installed on your system.
 3. Navigate to the project directory in the terminal.
 4. Run the following command to start the Spring Boot application:
+   mvn spring-boot:run
 5. The application will start running on `http://localhost:8080`.
 
 ## Using the API with Postman
